@@ -1,0 +1,16 @@
+*** Proudfolio Changelog ***
+
+2008.08.07 - Version 1.1
+
+  * changelog.txt - Added changelog and revised version number
+  * includes/easytube.php - Added easytube integrated
+  * includes/test.php - Added phpinfo() file for debugging resizer on buggy hosts
+  * functions/custom.php - Custom settings panel in WP post window
+  * footer.php - Stripslashes on google analytics
+  * footer.php - WooThemes credit logo
+  * screenshot.png - New screenshot  
+  * functions.php - .mainrow border-bottom: 1px solid #D4E9FA !important;
+  * functions.php - Fixed google analytics slashes when saving
+  * functions.php - No <br/> before description of checkboxes
+
+Share by£ºwww.boygj.com

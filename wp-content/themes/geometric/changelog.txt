@@ -1,0 +1,20 @@
+*** Geometric Changelog ***
+
+2009.01.12 - version 1.1
+ * styles/ - Added 5 new styles (monochrome, off-white-brown, off-white-green, green-red, white-blue)
+ * functions/admin-options.php - Added option for left / right sidebar
+   404.php
+   archive.php
+   category.php
+   header.php
+   index.php
+   page.php
+   search.php
+   sidebar.php
+   single.php
+   template-archives.php
+   template-custom_home.php
+   template-sitemap.php
+  
+2009.01.08 - version 1.0.0
+  * First release!

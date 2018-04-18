@@ -1,0 +1,14 @@
+*** THiCK Changelog ***
+
+2008.11.18 - Version 1.0.2
+	* headers/header.php - added stripslashes() to improve parsing of about text
+	* 404.php - added 404 error template page
+	* functions/admin-options.php - changed Digg Username -> Digg Profile URL
+	* includes/widgets.php - changed widget titles to reflect where they should be used
+
+2008.11.14 - Version 1.0.1
+  * headers/*.* - fixed custom logo bug
+  * style.css - added height for featured image
+
+2008.11.10 - Version 1.0.0
+

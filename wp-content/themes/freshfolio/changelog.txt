@@ -1,0 +1,19 @@
+*** Fresh Folio Changelog ***
+
+2008.09.23 - version 1.0.3
+  * single.php - Image now links to image instead of article
+  * style.css - border:0 on twitter div ul
+
+
+2008.09.23 - version 1.0.3
+  * single.php - Image now links to image instead of article
+
+2008.09.05 - version 1.0.2
+  * includes/js/unitpngfix.js - New version of png fix for ie6
+
+2008.09.04 - version 1.0.1
+  * style.css - Fixed flickr badge style error
+  * includes/widgets.php - Fixed flickr badge style error
+
+2008.09.01 - version 1.0
+  * First release!

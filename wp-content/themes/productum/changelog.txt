@@ -1,0 +1,41 @@
+*** Productum Changelog ***
+
+2009.03.20 - version 1.0.8
+	* sidebar-home.php - Added clearfix div for alignment issues in recent posts
+
+2009.03.17 - version 1.0.7
+	* footer.php - fixed bug for image switcher
+	* functions/admin-js.php - Added conditional js loader
+
+>>>>>>> .r667
+2009.03.12 - version 1.0.6
+	* 404.php - removed duplicated 	"contentWrap" div
+
+2009.03.12 - version 1.0.5
+	* functions/admin-options.php - updated wp_pagenavi()
+	  style.css - updated /* Pagination */
+
+2009.03.12 - version 1.0.4
+	* includes/js/setup.imgswitch.js - Added link-outs to the featured image on the home page
+	* index.php - edited showcase section
+	* header.php - edited featuredimg section
+	* functions/admin-options.php - home page featured image options
+
+2009.03.11 - version 1.0.3
+	* added three new styles
+	- styles/fresh_red + fresh_red.css
+	- styles/fresh_blue + fresh_blue.css
+	- styles/fresh_brown + fresh_brown.css
+
+2009.03.11 - version 1.0.2
+	* search.php - added page navigation
+
+2009.03.10 - version 1.0.1
+  	* search.php - Fixed looping bug and added validation for if no posts
+  	* functions/admin-options.php - Added theme option to enable/disable image resizer script
+ 	* sidebar-2.php - Added option to include most commented widget
+ 	* includes/widgets.php - removed old popular posts widget
+ 	* includes/popular.php - new file
+
+2009.03.10 - version 1.0.0
+  * First release!

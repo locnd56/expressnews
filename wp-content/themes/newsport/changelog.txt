@@ -1,0 +1,4 @@
+*** Newsport Changelog ***
+
+2009.02.27 - version 1.0
+	* First release!

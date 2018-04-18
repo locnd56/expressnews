@@ -1,0 +1,36 @@
+*** WooTube Changelog ***
+
+2009.02.24 - version 1.1.1
+	* layout-home.php - added page navigation
+	  style.css - tweaked styles .more-entries and .Nav *
+	  archive.php
+	* functions/admin-options.php - Added option to show video browser only on single posts
+	  sidebar.php
+	* functions/admin-theme-page.php - fixed bug with loading alternative styles in the admin panel
+
+2009.02.21 - version 1.1
+	* MAJOR UPDATE - OPTIONAL HOMEPAGE ADDED
+	  style.css - added section /* Homepage layout */ 
+	  index.php - moved code to layout-single.php
+	  layout-single.php
+	  layout-home.php
+	  search.php
+	  archive.php
+	  archive-single.php
+	  header.php
+	  styles/*.css - added .video-box
+	  cache/ - added for image resizer
+	  functions/custom.php
+	  functions/admin-setup.php
+ 	  functions/admin-options.php
+	  images/bg_box_bot.gif
+	  images/bg_comment_cloud.png
+	* page.php - removed comments
+
+2009.02.15 - version 1.0.1
+	* header.php - added class="wootube" to body tag to hinder admin panel taking same style as theme
+	  styles/*.css
+	* sidebar.php - excluded pages from video browser
+	
+2009.01.29 - version 1.0
+	* First release!

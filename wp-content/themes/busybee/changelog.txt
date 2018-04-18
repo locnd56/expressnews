@@ -1,0 +1,15 @@
+*** Busy Bee Changelog ***
+
+2008.12.08 - version 1.0.2
+  * functions/admin-options.php - Added Feedburner ID option (missing)
+
+2008.12.08 - version 1.0.1
+  * functions/admin-options.php - Added Sidebar Video Player widget
+    includes/widgets.php
+	archive.php
+	index.php
+	header.php
+	style.css
+  
+2008.12.08 - version 1.0.0
+  * First release!

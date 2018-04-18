@@ -1,0 +1,21 @@
+*** Over Easy Changelog ***
+
+2008.11.10 - version 1.0.4
+  * archive.php - fixed continue reading and div fix
+  
+2008.11.07 - version 1.0.3
+	style.css - removed missing divider.gif
+	styles/*.css
+
+2008.11.04 - version 1.0.2
+  * archive.php - changed the_date to the_time 
+    search.php
+	tag.php
+	single.php 
+  * header.php - fixed description
+
+2008.11.03 - version 1.0.1
+  * page-full.php - added div clear
+
+2008.10.30 - version 1.0
+  * First release!

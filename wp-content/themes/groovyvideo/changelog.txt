@@ -1,0 +1,4 @@
+*** Groovy Video Changelog ***
+
+2009.03.17 - version 1.0
+* First release!

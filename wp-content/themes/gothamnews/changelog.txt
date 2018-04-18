@@ -1,0 +1,7 @@
+*** Gotham News Changelog ***
+
+2008.11.19 - version 1.0.1
+  * sidebar.php - fixed featured tab
+  * search.php - removed popular posts
+  
+2008.11.19 - version 1.0.0

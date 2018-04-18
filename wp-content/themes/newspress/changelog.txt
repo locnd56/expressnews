@@ -1,0 +1,27 @@
+*** NewsPress Changelog ***
+
+2008.08.07 - Version 1.1
+
+  * changelog.txt - Added changelog and revised version number
+  * includes/easytube.php - Added easytube integrated
+  * includes/test.php - Added phpinfo() file for debugging resizer on buggy hosts
+  * includes/popular.php - Display popular posts in sidebar.php
+  * includes/comments.php - Display recent comments in sidebarh.php
+  * functions/custom.php - Custom settings panel in WP post window
+  * sidebar.php - Changed tabs to use popular.php and comments.php
+  * sidebar.php - Changed flickr script
+  * style.css - Fix float on .flicrk img
+  * header.php - fixed <? to <?php 
+  * includes/featured.php - #featureditem -> .featureditem
+  * style.css - #featureditem -> .featureditem
+  * style.css - fixes list1 styling
+  * header.php - Added depth=1 to top page menu
+  * includes/ads-management.php - Fixed randomizer
+  * footer.php - Stripslashes on google analytics
+  * footer.php - WooThemes credit logo
+  * screenshot.png - New screenshot  
+  * functions.php - .mainrow border-bottom: 1px solid #D4E9FA !important;
+  * functions.php - Added flickr options
+  * functions.php - Added pages dropdown to archive
+  * functions.php - Fixed google analytics slashes when saving
+  * functions.php - No <br/> before description of checkboxes
